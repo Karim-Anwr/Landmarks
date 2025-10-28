@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+tensorflow-hub
+pandas
+numpy
+pillow
+geopy
